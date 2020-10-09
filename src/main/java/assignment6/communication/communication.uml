@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>assignment6.communication</OriginalElement>
+  <nodes>
+    <node x="1232.0" y="613.5">assignment6.communication.Client</node>
+    <node x="25.508333333333212" y="202.5">assignment6.communication.ChatRoomFullException</node>
+    <node x="46.0" y="492.0">assignment6.communication.ClientHandler</node>
+    <node x="1389.5" y="202.5">assignment6.communication.InvalidMessageFormat</node>
+    <node x="0.0" y="1092.0">assignment6.communication.Server</node>
+    <node x="527.75" y="0.0">assignment6.communication.MessageIdentifier</node>
+    <node x="415.99999999999994" y="667.5">assignment6.communication.Message</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.21797931583134447" x="825.5" y="618.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

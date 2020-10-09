@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>assignment6.message</OriginalElement>
+  <nodes>
+    <node x="0.0" y="225.0">assignment6.message.QueryResponse</node>
+    <node x="2079.0" y="225.0">assignment6.message.ConnectResponse</node>
+    <node x="1549.0" y="252.0">assignment6.message.InsultMessage</node>
+    <node x="2353.0" y="252.0">assignment6.message.QueryMessage</node>
+    <node x="2627.0" y="238.5">assignment6.message.BroadcastMessage</node>
+    <node x="1386.75" y="0.0">assignment6.message.Message</node>
+    <node x="736.0000000000001" y="238.5">assignment6.message.FailedMessage</node>
+    <node x="462.0" y="225.0">assignment6.message.DirectMessage</node>
+    <node x="1814.0" y="265.5">assignment6.message.ConnectMessage</node>
+    <node x="1010.0000000000001" y="265.5">assignment6.message.DisconnectMessage</node>
+    <node x="1275.0" y="225.0">assignment6.message.DisconnectResponse</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="assignment6.message.FailedMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-113.0" />
+      <point x="863.0000000000001" y="185.0" />
+      <point x="1461.75" y="185.0" />
+      <point x="-75.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.BroadcastMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-113.0" />
+      <point x="2754.0" y="165.0" />
+      <point x="1671.75" y="165.0" />
+      <point x="135.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.DirectMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-126.5" />
+      <point x="589.0" y="175.0" />
+      <point x="1431.75" y="175.0" />
+      <point x="-105.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.ConnectResponse" target="assignment6.message.Message">
+      <point x="0.0" y="-126.5" />
+      <point x="2206.0" y="185.0" />
+      <point x="1611.75" y="185.0" />
+      <point x="75.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.DisconnectResponse" target="assignment6.message.Message">
+      <point x="0.0" y="-126.5" />
+      <point x="1402.0" y="205.0" />
+      <point x="1521.75" y="205.0" />
+      <point x="-15.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.QueryResponse" target="assignment6.message.Message">
+      <point x="0.0" y="-126.5" />
+      <point x="221.0" y="165.0" />
+      <point x="1401.75" y="165.0" />
+      <point x="-135.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.ConnectMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-86.0" />
+      <point x="1936.5" y="195.0" />
+      <point x="1581.75" y="195.0" />
+      <point x="45.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.DisconnectMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-86.0" />
+      <point x="1132.5" y="195.0" />
+      <point x="1491.75" y="195.0" />
+      <point x="-45.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.InsultMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-99.5" />
+      <point x="1671.5" y="205.0" />
+      <point x="1551.75" y="205.0" />
+      <point x="15.0" y="72.5" />
+    </edge>
+    <edge source="assignment6.message.QueryMessage" target="assignment6.message.Message">
+      <point x="0.0" y="-99.5" />
+      <point x="2480.0" y="175.0" />
+      <point x="1641.75" y="175.0" />
+      <point x="105.0" y="72.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.43244444444444446" x="1115.0" y="113.64439876670093" />
+  <SelectedNodes>
+    <node>assignment6.message.DisconnectResponse</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
