@@ -1,6 +1,6 @@
-# Assignment 6
+# Chat Room Application
 
-Group Assignment 6 by Pooja and Tao.
+Group Project by Pooja and Tao.
 
 ## Get Started:
 
